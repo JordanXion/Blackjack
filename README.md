@@ -1,3 +1,4 @@
+[![.NET](https://github.com/JordanXion/Blackjack/actions/workflows/dotnet.yml/badge.svg)](https://github.com/JordanXion/Blackjack/actions/workflows/dotnet.yml)
 # Blackjack C#
 
 This is a basic console app implementation of the classic game of Blackjack using C#
